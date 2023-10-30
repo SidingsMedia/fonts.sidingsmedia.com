@@ -3,8 +3,10 @@ Upstream-Name: template
 Upstream-Contact: Sidings Media <contact@sidingsmedia.com>
 Source: 
 
-# Sample paragraph, commented out:
-#
-# Files: src/*
-# Copyright: $YEAR $NAME <$CONTACT>
-# License: ...
+Files: fonts/noto-sans/*
+Copyright: 2023 The Noto Project Authors
+License: OFL-1.1
+
+Files: fonts/noto-mono/*
+Copyright: 2023 The Noto Project Authors
+License: OFL-1.1

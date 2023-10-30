@@ -1,11 +1,12 @@
 <!-- 
-SPDX-FileCopyrightText: 2022 Sidings Media <contact@sidingsmedia.com>
+SPDX-FileCopyrightText: 2022-2023 Sidings Media <contact@sidingsmedia.com>
 SPDX-License-Identifier: MIT
 -->
 
-# Project name
+# fonts.sidingsmedia.com
 
-A description of what this project is and what it does
+This site contains all of the fonts used by Sidings Media's online
+sites.
 
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to
